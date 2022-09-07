@@ -1,4 +1,4 @@
-# HR-Salary-Dashboard---Train-the-Dataset-and-Predict-Salary
+# HR Salary Dashboard---Train the Dataset and Predict Salary
 
 
 To build a salary prediction dashboard for HRs
